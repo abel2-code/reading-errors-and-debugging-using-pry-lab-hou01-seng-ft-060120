@@ -5,5 +5,5 @@ def generate_star_date
 end
 
 def engage
-puts state_log(star_date) Captains Log, star date #{star_date}.
+
 end
